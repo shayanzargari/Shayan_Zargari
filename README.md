@@ -2,7 +2,7 @@
 
 ## 📝 About Me
 * 🔭  I'm a proud alumnus of Electrical Engineering, holding a B.Sc. in Electronics and an M.Sc. in Telecommunication Systems.
-* 👯  I'm eager to collaborate on exciting projects in AI, Data Science, and Wireless Communication fields!
+* 👯  I'm eager to collaborate on exciting projects in Wireless Communication and AI fields!
 * 🤔  Currently, I'm immersing myself in further learning as a PhD student.
 * 📫 How to reach me: [zargari@ualberta.ca](mailto:zargari@ualberta.ca)
 
