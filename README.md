@@ -1,5 +1,7 @@
 # Shayan Zargari
 
+## About Me 📝
+Greetings!
 * 🔭  I'm a proud alumnus of Electrical Engineering, holding a B.Sc. in Electronics and an M.Sc. in Telecommunication Systems.
 * 👯  I'm eager to collaborate on exciting projects in AI, Data Science, and Wireless Communication fields!
 * 🤔  Currently, I'm immersing myself in further learning as a PhD student.
